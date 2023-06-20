@@ -1,6 +1,6 @@
-# hw 9
+# hw9
 
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Description](#description)
@@ -12,22 +12,22 @@
 - [Questions](#questions)
 
 ## Description
-readme generator
+create a readme generator
 
 ## Installation
-install dependencies like inquirer
+install inquirer
 
 ## Usage
-create a read.me
+to generate a readme
 
 ## License
-This application is covered under the .
+This application is covered under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contributing
 undefined
 
 ## Tests
-node index.js
+index.js
 
 ## Questions
-For any additional questions, you can reach out to me via [GitHub](https://github.com/adrian-g-c) or email me at email@me.com.
+For any additional questions, you can reach out to me via [GitHub](https://github.com/adrian) or email me at adrians email.
